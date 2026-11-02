@@ -1,2 +1,2 @@
-Main updated
+Feature B updated
 Conflict resolved
